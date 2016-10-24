@@ -1,4 +1,4 @@
-# appWithJson
+# React + Node example
 
 ### To start a project you need to:
 * open terminal and install all the necessary NPM packages by running ``npm i``;
